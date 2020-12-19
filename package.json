@@ -1,0 +1,20 @@
+{
+  "name": "isfinalproject",
+  "version": "14.15.0",
+  "description": "simple final",
+  "main": "final.js",
+  "scripts": {
+    "start": "node final.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerm21/ISFINALPROJECT.git"
+  },
+  "author": "Mady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerm21/ISFINALPROJECT/issues"
+  },
+  "homepage": "https://github.com/rogerm21/ISFINALPROJECT#readme"
+}
